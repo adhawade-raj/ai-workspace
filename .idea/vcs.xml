@@ -4,6 +4,5 @@
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AI-2025-NaveenCodesReferences" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ai-workspace" vcs="Git" />
   </component>
 </project>
