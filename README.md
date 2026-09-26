@@ -1,9 +1,14 @@
 ﻿# AI Workspace
 
-This repository contains multiple projects and code snippets related to AI experiments and Java Selenium/RestAssured samples.
+This workspace contains multiple learning and project folders for AI, Java automation, and Python programming practice.
 
-Structure:
-- AI-2025-McpIntegration: Maven project with Selenium example
-- AI-2025-NaveenCodesReferences: Collection of Naveen's code samples (converted from submodule to regular directory)
+## Current structure
 
-If anything else should be added to this README, open an issue or submit a PR.
+- AI-2025-McpIntegration: Java/Maven project focused on MCP integration and Selenium-related examples.
+- AI-2025-NaveenCodesReferences: Java automation reference project with Selenium/MCP sample code and Maven setup.
+- AI-ML-2026-PythonLectures: Python exercises and lecture files covering basics like variables, conditionals, loops, functions, strings, lists, tuples, dictionaries, sets, and lambda usage.
+
+## Notes
+
+- The README was updated to match the current folders in the workspace.
+- New folders or projects added later should be documented here as the workspace evolves.
