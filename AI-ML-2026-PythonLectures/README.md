@@ -25,6 +25,11 @@ The content is focused on building a strong foundation in Python programming, in
 
 ## Course Structure
 
+### 0. Google Play review data pipeline
+The [`play_store_review_pipeline`](./play_store_review_pipeline/README.md)
+folder contains a small Python ETL project for fetching a Google Play app's
+rating and review-count summary.
+
 ### 1. Python Fundamentals 1-3
 This section covers the basics of Python programming, including:
 
