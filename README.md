@@ -6,7 +6,7 @@ This workspace contains multiple learning and project folders for AI, Java autom
 
 - AI-2025-McpIntegration: Java/Maven project focused on MCP integration and Selenium-related examples.
 - AI-2025-NaveenCodesReferences: Java automation reference project with Selenium/MCP sample code and Maven setup.
-- AI-ML-2026-PythonLectures: Python exercises and lecture files covering basics like variables, conditionals, loops, functions, strings, lists, tuples, dictionaries, sets, and lambda usage.
+- AI-ML-2026: Python exercises, notebooks, and sample data for Python, NumPy, and Pandas.
 
 ## Notes
 

@@ -1,4 +1,8 @@
-f = open("AI-ML-2026-PythonLectures\\PythonFundamentals_5-File-IO\\sample.txt", "r")
+from pathlib import Path
+
+
+sample_file = Path(__file__).resolve().parent / "Sample.txt"
+f = open(sample_file, "r")
 
 data = f.read()
 print("---- This will read all file data at once ----")
@@ -15,7 +19,7 @@ print(data)
 
 
 print("---- This will overwrite the file with new data ----")
-f = open("AI-ML-2026-PythonLectures\\PythonFundamentals_5-File-IO\\sample.txt", "w")
+f = open(sample_file, "w")
 f.write("This is a new line added to the file.\n")
 f.write("This is another new line added to the file.\n")
 

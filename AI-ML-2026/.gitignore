@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints/
+**/.virtual_documents/
+**/project_filebrowser.db
+anaconda_projects/
+__pycache__/
+*.py[cod]

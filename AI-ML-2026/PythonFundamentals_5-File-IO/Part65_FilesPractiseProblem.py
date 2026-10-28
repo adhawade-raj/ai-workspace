@@ -1,8 +1,12 @@
+from pathlib import Path
+
+
 data = True
 line = 1
 word = "Python"
 
-with open("AI-ML-2026-PythonLectures\\PythonFundamentals_5-File-IO\\sample5.txt", "r") as f:
+sample_file = Path(__file__).resolve().parent / "Sample5.txt"
+with open(sample_file, "r") as f:
 
     while data:
         data = f.readline()
