@@ -10,3 +10,5 @@ values
 (102, "bob", 13);
 
 SELECT * from Student;
+
+SHOW Tables;
