@@ -21,3 +21,6 @@ INSERT INTO orders VALUES
 (102, 1, 900),
 (103, 2, 300),
 (104, 5, 700);
+
+
+select c.customer_id, o.order_id from customers c, orders o;
